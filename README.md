@@ -105,7 +105,7 @@ This project is licensed under the MIT License.
 ---
 
 🔗 **Connect with Me:**\
-📧 Email: [www.bindu.n03@gmail.com](mailto\:www.bindu.n03@gmail.com)\
+📧 Email: [www.bindu.n03@gmail.com](mailto\:www.bindu.n03@gmail.com)
 
 ---
 
