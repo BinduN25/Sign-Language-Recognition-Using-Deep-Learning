@@ -106,7 +106,6 @@ This project is licensed under the MIT License.
 
 🔗 **Connect with Me:**\
 📧 Email: [www.bindu.n03@gmail.com](mailto\:www.bindu.n03@gmail.com)\
-🔗 LinkedIn: https://www.linkedin.com/in/meghashetty-tech
 
 ---
 
